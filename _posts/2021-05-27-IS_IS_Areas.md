@@ -3,7 +3,7 @@ layout: post
 title: IS-IS Areas
 ---
 
-[IS-IS](https://en.wikipedia.org/wiki/IS-IS) is an IGP that provides routing and reachability within an AS. It's pretty cool (though has an unfortunate name). I've been studying the protocol a bitr and intend to set up some labs, so stay tuned for that... In any case, let's talk about IS-IS areas.
+[IS-IS](https://en.wikipedia.org/wiki/IS-IS) is an IGP that provides routing and reachability within an AS. It's pretty cool (though has an unfortunate name). I've been studying the protocol a bit and intend to set up some labs, so stay tuned for that... In any case, let's talk about IS-IS areas.
 
 I also apologize for not posting in a while. It's been a busy few weeks.
 
