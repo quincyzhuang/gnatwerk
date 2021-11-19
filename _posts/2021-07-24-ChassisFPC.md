@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chassis and FPCs and Interfaces, oh my!
-published: false
+published: true
 ---
 
 Before I start this post, I had no idea that the singular and plural forms of the word _chassis_ were spelled identically, but pronounced differently. The singular is pronounced **CHASS-ee** while the plural is pronounced **CHASS-eez**? English is dumb.
